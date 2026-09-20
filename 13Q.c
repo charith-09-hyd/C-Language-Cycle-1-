@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+	 int a,b,c;
+	 printf("ENTER 2 Angles:   \n");
+	 scanf("%d%d",&a,&b);
+	 c = 180 - (a+b);
+	 printf("3rd ANGLE = %d",c);
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+}
